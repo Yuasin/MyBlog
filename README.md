@@ -1,3 +1,13 @@
+# 本仓库
+
+该仓库为Hexo主题Hueman的个人修改库
+
+源仓库和该主题介绍如下
+
+[ 我的博客]:http://47.95.37.91/
+
+
+
 # Hueman
 
 > Probably the most beautiful theme for Hexo. [Preview](http://ppoffice.github.io/hexo-theme-hueman/)
